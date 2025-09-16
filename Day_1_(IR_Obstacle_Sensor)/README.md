@@ -5,13 +5,6 @@
 ## Overview
 This project marks the start of my 30-day PCB design journey with the completion of an IR Obstacle Sensor PCB. Designed from scratch using KiCad, this small yet fundamental sensor is widely used in robotics, automation, and obstacle detection systems. The design process deepened my understanding of component placement, signal routing, schematic-to-PCB workflow, and footprint assignment.
 
-## Hardware Requirements
-- IR sensor module (e.g., TCRT5000 or similar)
-- Microcontroller (e.g., Arduino compatible)
-- Resistors and capacitors (for signal conditioning)
-- PCB fabricated from the designed layout
-- Power supply (e.g., 5V)
-
 ## Design Considerations
 - Focused on proper schematic creation and transition to PCB layout.
 - Optimized component placement and trace routing for effective obstacle detection.
