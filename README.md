@@ -16,9 +16,9 @@ Each folder includes circuit schematics, PCB layouts, and related design files.
 - 🔹 [Day_1 (IR Obstacle Sensor)](./Day_1_(LDR_Sensor))  
 - 🔹 [Day_2 (LDR Sensor)](./Day_2_(LDR_Sensor))
 - 🔹 [Day_3 (NTC_Thermistor_Sensor)](./Day_3_(NTC_Thermistor_Sensor))  
-- 🔹 [Day_4 (LED&Switch_Kit_for_Microcontroller)](./Day_4_(LED&Switch_Kit_for_Microcontroller))
-- 🔹 [Day_5 (4 Channel Relay Module)](./Day_5_($_Channel_Relay_Module))  
-- 🔹 [Day_6 (Current Sensor)](./Day_6_(Current_Sensor))    
+- 🔹 [Day_4 (DHT11)](./Day_4_(DHT11))
+- 🔹 [Day_5 (LED&Switch_Kit_for_Microcontroller)](./Day_5_(LED&Switch_Kit_for_Microcontroller))  
+- 🔹 [Day_6 (4 Channel Relay Module)](./Day_6_(4_Channel_Relay_Module))    
 - 🔹 [ESP32](./ESP32)  
 - 🔹 [Half_Adder](./Half_Adder)  
 
