@@ -14,7 +14,11 @@ Each folder includes circuit schematics, PCB layouts, and related design files.
 - 🔹 [Bistable_Multivibrator_With_Relay](./Bistable_Multivibrator_With_Relay)  
 - 🔹 [DC-DC_Buck_Converter](./DC-DC%20Buck%20Converter)  
 - 🔹 [Day_1 (IR Obstacle Sensor)](./Day_1_(LDR_Sensor))  
-- 🔹 [Day_2 (LDR Sensor)](./Day_2_(LDR_Sensor))  
+- 🔹 [Day_2 (LDR Sensor)](./Day_2_(LDR_Sensor))
+- 🔹 [Day_3 (NTC_Thermistor_Sensor)](./Day_3_(NTC_Thermistor_Sensor))  
+- 🔹 [Day_4 (DHT11)](./Day_4_(DHT11))
+- 🔹 [Day_5 (LED&Switch_Kit_for_Microcontroller)](./Day_5_(LED&Switch_Kit_for_Microcontroller))  
+- 🔹 [Day_6 (4 Channel Relay Module)](./Day_6_(4_Channel_Relay_Module))    
 - 🔹 [ESP32](./ESP32)  
 - 🔹 [Half_Adder](./Half_Adder)  
 
