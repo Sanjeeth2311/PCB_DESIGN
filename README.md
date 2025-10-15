@@ -29,7 +29,6 @@ Each folder includes circuit schematics, PCB layouts, and related design files.
 - 🖥️ **KiCad** – PCB Design & Layout  
 - ⚡ **Proteus** – Circuit Simulation & PCB Design  
 - 🔌 **Wokwi** – Online Circuit Simulation  
-- 🛠️ **Arduino IDE / PlatformIO** – Embedded coding for testing PCBs  
 
 ---
 
